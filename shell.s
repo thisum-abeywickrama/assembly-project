@@ -628,3 +628,5 @@ string_compare_end:
     ldr r0, [sp, #0]
     add sp, sp, #16
     mov pc, lr
+
+.section .note.GNU-stack,"",%progbits
