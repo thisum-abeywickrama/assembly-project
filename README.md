@@ -26,7 +26,7 @@ Use the ARM cross-compiler to assemble and link the source code into an executab
 arm-linux-gnueabi-gcc -o shell shell.s
 ```
 
-### 3. Running the Shell
+### 3. Running the shell
 
 Since the executable is built for the ARM architecture, use QEMU to run it on your host machine. You must point QEMU to the ARM library path so it can find the necessary dependencies (like `printf` and `scanf`):
 
