@@ -2,6 +2,11 @@
 
 This project is an ARM32 assembly-based shell designed to run on Linux systems using the ARM cross-compiler and QEMU emulator. The shell provides basic functionalities such as printing "Hello World!", displaying help messages, clearing the screen, and exiting. Additionally, it includes custom commands for converting decimal integers to octal and calculating the average of a set of positive numbers, up to three decimal places.
 
+## Contributors
+
+* T. H. Abeywickrama (E/22/008)
+* S. H. S. Hansara   (E/22/130)
+
 ### 1. Prerequisites
 
 You need to install the ARM cross-compiler and the QEMU emulator. On Linux/Windows Subsystem for Linux, run:
