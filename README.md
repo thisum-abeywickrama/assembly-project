@@ -5,7 +5,7 @@ This project is an ARM32 assembly-based shell designed to run on Linux systems u
 ## Contributors
 
 * T. H. Abeywickrama (E/22/008)
-* S. H. S. Hansara   (E/22/130)
+* S. H. S. Hansara (E/22/130)
 
 ## Instructions
 
