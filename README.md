@@ -1,4 +1,4 @@
-# ARM32 ASSEMBLY SHELL
+# ARM32 Assembly Shell
 
 This project is an ARM32 assembly-based shell designed to run on Linux systems using the ARM cross-compiler and QEMU emulator. The shell provides basic functionalities such as printing "Hello World!", displaying help messages, clearing the screen, and exiting. Additionally, it includes custom commands for converting decimal integers to octal and calculating the average of a set of positive numbers, up to three decimal places.
 
@@ -47,3 +47,7 @@ The CLI shell supports the following commands:
 ### 5. Have fun! :)
 
 If you are an Assembly beginner, feel free to study and experiment with this simple code.
+
+## Acknowledgements
+
+This project is relevant to the **CO1020** course at the Faculty of Engineering, University of Peradeniya, Sri Lanka.
